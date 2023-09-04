@@ -4,3 +4,7 @@
 
 For this at firstvwe need to have knowledge about javascript function and React <br>
 
+we need to have node js install in our computer <br>
+
+
+
