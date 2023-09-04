@@ -48,6 +48,8 @@ we will use  Express as our framework and will use nodemon for restarting our se
 we will use nodemon for restarting our server automatically unchanged <br>
 
 
+now add script to script section <br>
+
 
 
 
