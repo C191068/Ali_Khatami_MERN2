@@ -67,6 +67,10 @@ we use these commands in development <br>
 here we have created a file name index.js it will be the stater of our project <br>
 
 
+
+![m7](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/3d1389e3-86c2-41d9-9bb8-df897764581c)
+
+
 at first line we add express.js framework <br>
 
 then by the second line we defined a new variable for it <br>
