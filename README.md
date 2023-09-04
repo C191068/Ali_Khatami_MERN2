@@ -51,6 +51,9 @@ we will use nodemon for restarting our server automatically unchanged <br>
 now add script to script section <br>
 
 
+![m5](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/18dcbf16-db0a-4918-b5d6-c0345308a417)
+
+
 here start will run the project nodejs environment <br>
 
 
