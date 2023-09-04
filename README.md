@@ -12,4 +12,27 @@ we can use VS code and chrome <br>
 
 we have created the above folder for our project <br>
 
+![m2](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/b65676e6-577c-4264-a855-a010933fc1b8)
+
+code:
+
+```
+npm init -y
+
+```
+we typed the above command for the package.json folder at backend <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
