@@ -1,3 +1,4 @@
+
 # Ali_Khatami_MERN2(Learning from the video of Mohammed Taheri)
 
 ### Prerequistic
@@ -101,7 +102,7 @@ then we have used console.log to show everything is okay <br>
 
 
 
-
+![m12](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/1bb66dd8-dc48-463a-aae2-62456c9a7572)
 
 
 
