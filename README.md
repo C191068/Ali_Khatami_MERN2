@@ -62,6 +62,9 @@ dev will run the project with nodemon <br>
 we use these commands in development <br>
 
 
+![m6](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/f7d12001-bc1b-4b0d-b495-7dc3618d26cc)
+
+here we have created a file name index.js it will be the stater of our project <br>
 
 
 
