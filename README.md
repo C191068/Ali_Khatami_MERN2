@@ -76,6 +76,8 @@ at first line we add express.js framework <br>
 then by the second line we defined a new variable for it <br>
 
 
+then we will mke it listen to a port <br>
+
 
 
 
