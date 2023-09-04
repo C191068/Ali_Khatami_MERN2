@@ -96,7 +96,10 @@ we have import PORT by using the above line of code <br>
 
 ![m11](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/c285db3e-93a2-4aa3-bdfc-48dc75d353d0)
 
-we have use the above function for listening to our PORT <br>
+we have use the above function for listening to our PORT, after PORT we pass a callback function  <br>
+then we have used console.log to show everything is okay <br>
+
+
 
 
 
