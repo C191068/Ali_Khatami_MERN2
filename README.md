@@ -8,5 +8,8 @@ we need to have node js install in our computer <br>
 
 we can use VS code and chrome <br>
 
+![m1](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/8581ea7e-1134-4b41-bc5c-7558ede32e2d)
+
+we have created the above folder for our project <br>
 
 
