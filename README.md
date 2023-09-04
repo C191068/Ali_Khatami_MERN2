@@ -22,6 +22,9 @@ npm init -y
 ```
 we typed the above command for the package.json folder at backend <br>
 
+![m3](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/f28d318b-deec-4de9-a283-3fefedc42d2c)
+we have use the line of code which is export keyword and import keyword <br>
+
 
 
 
