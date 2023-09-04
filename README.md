@@ -45,7 +45,7 @@ then we typed the above command
 we will use  Express as our framework and will use nodemon for restarting our server automatically <br>
 
 
-we will use nodemon for restarting our server autmatically <br>
+we will use nodemon for restarting our server automatically unchanged <br>
 
 
 
