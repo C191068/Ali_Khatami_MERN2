@@ -6,5 +6,7 @@ For this at firstvwe need to have knowledge about javascript function and React 
 
 we need to have node js install in our computer <br>
 
+we can use VS code and chrome <br>
+
 
 
