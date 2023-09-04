@@ -28,6 +28,38 @@ we have use the line of code which is export keyword and import keyword <br>
 
 now let us add two packages to our project express.js  and nodemon <br>
 
+![m4](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/ff571b90-b135-4848-9e2e-61cfab08610f)
+
+code:
+
+```
+npm i express nodemon
+
+```
+
+
+then we typed the above command 
+
+
+
+we will use  Express as our framework and will use nodemon for restarting our server automatically <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
