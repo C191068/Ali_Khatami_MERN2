@@ -51,6 +51,8 @@ we will use nodemon for restarting our server automatically unchanged <br>
 now add script to script section <br>
 
 
+here start will run the project nodejs environment <br>
+
 
 
 
