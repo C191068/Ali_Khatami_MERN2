@@ -59,6 +59,11 @@ here start will run the project nodejs environment <br>
 
 dev will run the project with nodemon <br>
 
+we use these commands in development <br>
+
+
+
+
 
 
 
