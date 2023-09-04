@@ -26,6 +26,8 @@ we typed the above command for the package.json folder at backend <br>
 we have use the line of code which is export keyword and import keyword <br>
 
 
+now let us add two packages to our project express.js  and nodemon <br>
+
 
 
 
