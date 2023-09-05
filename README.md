@@ -273,10 +273,14 @@ we give the above command for Mongoose libraary  <br>
 Then we will give the above line of code <br>
 
 
+![m37](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/7cb13aaf-547e-450a-b280-2d960cebac8d)
+
 
 we can use mongoose.connect() to connect database <br>
 
 later we will use then and catch structure to handle the situation of success and failure <br>
+
+
 
 
 
