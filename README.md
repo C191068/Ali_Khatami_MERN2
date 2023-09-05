@@ -100,9 +100,27 @@ we have import PORT by using the above line of code <br>
 we have use the above function for listening to our PORT, after PORT we pass a callback function  <br>
 then we have used console.log to show everything is okay <br>
 
-
-
 ![m12](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/1bb66dd8-dc48-463a-aae2-62456c9a7572)
+
+Code:
+
+```
+npm run dev
+
+```
+
+if we run the above code we get the above message at last part <br>
+we can understand that our server is running <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
