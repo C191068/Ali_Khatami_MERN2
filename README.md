@@ -151,6 +151,10 @@ In index.js we will use express framework to create our HTTP route <br>
 
 here we use the above method to get resources from the server <br>
 
+
+![m20](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/8fc356fe-4f6e-4ff4-9feb-9bf933aa0437)
+
+
 here as afirst parameter we use slash , <br>
 second prarameter is the callback function that handles this request <br>
 
