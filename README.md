@@ -215,6 +215,9 @@ here we will give the above name to our database and click create  <br>
 
 here we will select Username and Password option <br>
 
+![m28](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/0c4799b5-1b25-429e-811b-4017882e71e3)
+
+here we will click the connect button <br>
 
 
 
