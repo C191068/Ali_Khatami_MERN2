@@ -147,6 +147,9 @@ the defailt HTTP route of this server is slash <br>
 
 In index.js we will use express framework to create our HTTP route <br>
 
+![m19](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/b833b7ed-7ddc-4f9d-9c8e-82b3e7e2b568)
+
+here we use the above method to get resources from the server <br>
 
 
 
