@@ -207,7 +207,7 @@ Here we will choose the free option <br>
 ![m26](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/ea2a9236-7f01-4eb8-84d8-2c8d635c6373)
 
 
-here we will give the above name to our database <br>
+here we will give the above name to our database and click create  <br>
 
 
 
