@@ -156,6 +156,7 @@ second prarameter is the callback function that handles this request <br>
 
 in this callback function we will receive request and response <br>
 
+and we can mange both of them <br>
 
 
 
