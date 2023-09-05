@@ -113,6 +113,9 @@ if we run the above code we get the above message at last part <br>
 we can understand that our server is running <br>
 
 
+### Create our first HTTP route 
+
+
 ![m13](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/cdd132f8-0af1-4132-addd-2b99ce307757)
 
 we can get the above error message if we go to the localhost port  <br>
@@ -155,7 +158,7 @@ here we use the above method to get resources from the server <br>
 ![m20](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/8fc356fe-4f6e-4ff4-9feb-9bf933aa0437)
 
 
-here as afirst parameter we use slash , <br>
+here as a first parameter we use slash , <br>
 second prarameter is the callback function that handles this request <br>
 
 in this callback function we will receive request and response <br>
@@ -174,6 +177,9 @@ the above vresult e get in our server <br>
 ![m22](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/d92fbf62-11b2-4518-990f-c074063e774d)
 
 here we can see the staus 234 <br>
+
+
+### add MongoDB and mongoose to node js <br>
 
 
 
