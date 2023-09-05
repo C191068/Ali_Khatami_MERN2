@@ -247,6 +247,8 @@ here at first we will give password and in the second we will give password coll
 we will now use it at index.js by giving the above <br>
 
 
+for working with Mongo DB  database we need Mongoose libraary <br>
+
 
 
 
