@@ -250,6 +250,9 @@ we will now use it at index.js by giving the above <br>
 for working with Mongo DB  database we need Mongoose libraary <br>
 
 
+![m34](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/88095f20-990a-4a4c-a67b-f0c4874d8d9e)
+
+for that we need to create new terminal <br>
 
 
 
