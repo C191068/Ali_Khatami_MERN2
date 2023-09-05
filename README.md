@@ -145,7 +145,7 @@ In the above we can see Request URL, Request method and status code <br>
 the defailt HTTP route of this server is slash <br>
 
 
-In index.js we will use express.js to create our HTTP route <br>
+In index.js we will use express framework to create our HTTP route <br>
 
 
 
