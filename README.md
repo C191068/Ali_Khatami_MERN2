@@ -281,6 +281,7 @@ we can use mongoose.connect() to connect database <br>
 later we will use then and catch structure to handle the situation of success and failure <br>
 
 
+Also I want express server to run only if database connection is successful <br>
 
 
 
