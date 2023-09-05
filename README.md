@@ -193,6 +193,25 @@ here we will use freee online database <br>
 we will go to the above website https://www.mongodb.com/ and click the sign in button <br>
 
 
+![m24](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/3e051dd8-2c25-4fb1-bfab-0cc750477389)
+
+here we will click the sign up button <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
