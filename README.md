@@ -274,6 +274,10 @@ Then we will give the above line of code <br>
 
 
 
+we can use mongoose.connect() to connect database <br>
+
+
+
 
 
 
