@@ -237,6 +237,9 @@ then we will copy the above <br>
 then we will the paste the above code here <br>
 
 
+![m32](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/1ded55df-3587-49b5-9665-5c33675f4539)
+
+here at first we will give password and in the second we will give password collection <br>
 
 
 
