@@ -127,7 +127,9 @@ now we will go to the above arrow marked part <br>
 
 now we will click the above network section <br>
 
+![m16](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/aed1a6ca-153e-4d0b-88fe-a7413228e04e)
 
+In the above we can see request to localhost nad it has status of 404 <br>
 
 
 
