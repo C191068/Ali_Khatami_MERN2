@@ -223,6 +223,9 @@ here we will click the connect button <br>
 then we will click here the driver option <br>
 
 
+![m30](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/a8ce990c-403a-47c7-bd37-27e22dfcf9d1)
+
+then we will copy the above <br>
 
 
 
