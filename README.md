@@ -242,6 +242,9 @@ then we will the paste the above code here <br>
 here at first we will give password and in the second we will give password collection <br>
 
 
+![m33](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/41ec9ccd-64df-4b22-a9c3-5719830fefeb)
+
+we will now use it at index.js by giving the above <br>
 
 
 
