@@ -113,6 +113,9 @@ if we run the above code we get the above message at last part <br>
 we can understand that our server is running <br>
 
 
+![m13](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/cdd132f8-0af1-4132-addd-2b99ce307757)
+
+we can get the above error message if we go to the localhost port  <br>
 
 
 
