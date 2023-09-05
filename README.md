@@ -171,6 +171,9 @@ we can send HTTTP status code with any message we want <br>
 the above vresult e get in our server <br>
 
 
+![m22](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/d92fbf62-11b2-4518-990f-c074063e774d)
+
+here we can see the staus 234 <br>
 
 
 
