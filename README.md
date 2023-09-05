@@ -285,6 +285,9 @@ Also I want express server to run only if database connection is successful <br>
 
 
 
+![m38](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/9b7ff2e1-b836-4888-a224-6d09f7b48e17)
+
+thus we will copy our app.listen function and paste it here <br>
 
 
 
