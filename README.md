@@ -137,6 +137,10 @@ In the above we can see request to localhost nad it has status of 404 <br>
 In the abocve we can see three sections <br>
 
 
+![m18](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/dee6c4ca-b6ab-4e40-9b92-aefa90b08be3)
+
+In the above we can see Request URL, Request method and status code <br>
+
 
 
 
