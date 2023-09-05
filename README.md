@@ -154,6 +154,8 @@ here we use the above method to get resources from the server <br>
 here as afirst parameter we use slash , <br>
 second prarameter is the callback function that handles this request <br>
 
+in this callback function we will receive request and response <br>
+
 
 
 
