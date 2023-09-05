@@ -151,6 +151,9 @@ In index.js we will use express framework to create our HTTP route <br>
 
 here we use the above method to get resources from the server <br>
 
+here as afirst parameter we use slash , <br>
+second prarameter is the callback function that handles this request <br>
+
 
 
 
