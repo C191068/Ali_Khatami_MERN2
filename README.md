@@ -268,6 +268,9 @@ npm i mongoose
 we give the above command for Mongoose libraary  <br>
 
 
+![m36](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/cd52ce02-fede-40cf-bd24-9b0132f7ca5a)
+
+Then we will give the above line of code <br>
 
 
 
