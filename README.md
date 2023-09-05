@@ -158,6 +158,8 @@ in this callback function we will receive request and response <br>
 
 and we can mange both of them <br>
 
+we can log the request and also return any message with our response <br>
+
 
 
 
