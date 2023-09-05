@@ -255,6 +255,18 @@ for working with Mongo DB  database we need Mongoose libraary <br>
 for that we need to create new terminal <br>
 
 
+![m35](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/68949e47-3652-454c-82a5-82c84f31283d)
+
+Code:
+
+```
+
+npm i mongoose
+
+```
+
+we give the above command for Mongoose libraary  <br>
+
 
 
 
