@@ -132,6 +132,9 @@ now we will click the above network section <br>
 In the above we can see request to localhost nad it has status of 404 <br>
 
 
+![m17](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/a1754027-4f86-4350-ac0b-52ef2764a39e)
+
+In the abocve we can see three sections <br>
 
 
 
