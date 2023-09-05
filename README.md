@@ -142,6 +142,8 @@ In the abocve we can see three sections <br>
 In the above we can see Request URL, Request method and status code <br>
 
 
+the defailt HTTP route of this server is slash <br>
+
 
 
 
