@@ -122,7 +122,10 @@ we can get the above error message if we go to the localhost port  <br>
 now we will go to the above arrow marked part <br>
 
 
+![m15](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/522d82b2-881e-4632-bcd1-99833e733e6f)
 
+
+now we will click the above network section <br>
 
 
 
