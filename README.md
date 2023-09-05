@@ -117,6 +117,9 @@ we can understand that our server is running <br>
 
 we can get the above error message if we go to the localhost port  <br>
 
+![m14](https://github.com/C191068/Ali_Khatami_MERN2/assets/89090776/3bd080d5-8450-4564-bd37-99d04279b23b)
+
+now we will go to the above arrow marked part <br>
 
 
 
